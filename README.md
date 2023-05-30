@@ -1,1 +1,1 @@
-# Mini_Project_1_FE_Krisna-Sanjaya
+Mini Project FE Krisna Sanjaya
